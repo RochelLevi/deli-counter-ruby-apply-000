@@ -1,6 +1,6 @@
 def line(katz_deli)
   if katz_deli.length == 0 || katz_deli[0] == nil
-    return "The line is currently empty."
+    puts "The line is currently empty."
   else
     i = 0
     return_string =  "The line is currently:"
