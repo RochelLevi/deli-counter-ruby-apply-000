@@ -10,6 +10,7 @@ def line(katz_deli)
     end
   end
   puts return_string
+  return return_string
 end
 
 def take_a_number(katz_deli, name)
