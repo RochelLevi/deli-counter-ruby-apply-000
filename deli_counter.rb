@@ -9,7 +9,7 @@ def line(katz_deli)
       i += 1
     end
   end
-  return return_string
+  puts return_string
 end
 
 def take_a_number(katz_deli, name)
